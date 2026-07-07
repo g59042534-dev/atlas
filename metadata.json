@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Evidências",
+  "description": "Plataforma técnica de catalogação de mídias e cálculo de hashes SHA-256 para auditoria de integridade de arquivos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
